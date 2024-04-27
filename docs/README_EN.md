@@ -1,5 +1,7 @@
 # Admin panel for managing games
 
+[RU](/README.md) | [EN](README_EN.md) | [CH](README_CH.md) | [DE](README_DE.md) | [KR](README_KR.md) | [JP](README_JP.md)
+
 ## Description
 
 This is a project that is a JavaScript web application with an admin panel for adding, deleting and managing games. The admin panel provides tools for convenient management of game resources and content.
