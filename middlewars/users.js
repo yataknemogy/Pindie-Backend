@@ -1,4 +1,4 @@
-const userSchema = require("./user");
+const userSchema = require("../models/user");
 const bcrypt = require("bcryptjs");
 
 const hashPassword = async (req, res, next) => {

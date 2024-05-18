@@ -1,4 +1,4 @@
-const gameSchema = require("./game");
+const gameSchema = require("../models/game");
 
 const checkEmptyFields = async (req, res, next) => {
   if (

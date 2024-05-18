@@ -1,4 +1,4 @@
-const categorySchema = require("./category");
+const categorySchema = require("../models/category");
 
 const findAllCategories = async (req, res, next) => {
   req.categoriesArray = await categorySchema.find({});
