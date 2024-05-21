@@ -33,5 +33,3 @@
 * Тестовые случаи.
 
 Этот проект является учебным и предназначен для ознакомления с основами разработки веб-приложений на JavaScript.
-
-[Backend](https://pindie-backend-yatklngy.nomoredomainswork.ru)
