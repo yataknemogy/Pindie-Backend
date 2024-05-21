@@ -33,3 +33,11 @@
 * Тестовые случаи.
 
 Этот проект является учебным и предназначен для ознакомления с основами разработки веб-приложений на JavaScript.
+
+## Прочее
+
+1. Ссылка на репозиторий с фронтендом: [Repository](https://github.com/yataknemogy/Pindie)
+
+2. Ссылка на домен фронтенда: [Website](https://pindie-frontend-yatklngy.nomoredomainswork.ru)
+
+3. IP-адрес: 158.160.154.12
