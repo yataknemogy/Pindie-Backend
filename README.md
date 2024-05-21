@@ -34,4 +34,10 @@
 
 Этот проект является учебным и предназначен для ознакомления с основами разработки веб-приложений на JavaScript.
 
-[Backend](https://pindie-backend-yatklngy.nomoredomainswork.ru)
+## Прочее
+
+1. Ссылка на репозиторий с фронтендом: [Repository](https://github.com/yataknemogy/Pindie)
+
+2. Ссылка на домен фронтенда: [Website](https://pindie-frontend-yatklngy.nomoredomainswork.ru)
+
+3. IP-адрес: 158.160.154.12
